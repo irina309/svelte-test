@@ -16,7 +16,7 @@
                     Приветствую Вас на своем сайте. <br>Спасибо, что посетили мою страницу.<br> Давайте знакомиться.
                 </h2>
                 <div style='color:black' class='scroll-button animate-scroll' tabindex='0'>
-                    <a href='/about'>Click Here</a>
+                    <a href='/about'>Узнать обо мне</a>
                     <div class='arrow'>→</div>
                 </div>
             </div>
