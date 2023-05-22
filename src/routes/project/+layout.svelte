@@ -1,4 +1,3 @@
 <div class="container">
-    <slot />
-  </div>
-  
+	<slot />
+</div>
