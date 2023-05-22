@@ -1,5 +1,5 @@
 <svelte:head>
-<title>Леонтьева Ирина</title>
+<title>Сайфутдинов Булат</title>
 </svelte:head>
 
 <div class='container'>
@@ -9,7 +9,7 @@
                 <div class='info-text'>
                     <h1>
                         <p class='animate-text-1'>Персональный сайт</p>
-                        <p class='text-2'>Леонтьевой Ирины</p>
+                        <p class='text-2'>Сайфутдинова Булата</p>
                     </h1>
                 </div>
                 <h2 class='subtitle'>

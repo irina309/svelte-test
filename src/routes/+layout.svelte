@@ -1,10 +1,10 @@
 <nav>
     <div class="nav-container">
-      <a href="/" class="nav-logo" title="Back to Homepage">Имя Фамилия</a>
+      <a href="/" class="nav-logo" title="Back to Homepage">Сайфутдинов Булат</a>
       <div class="nav-links">
         <a href="/about" class="link">Обо мне</a>
         <a href="/blog" class="link">Блог</a>
-        <a href="/projects" class="link">Портфолио</a>
+        <a href="/project" class="link">Портфолио</a>
         <a href="/contact" class="link">Контакты</a>
       </div>
     </div>
